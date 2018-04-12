@@ -1,4 +1,5 @@
 # issu-downloader
+
 eqagunn's Issuu Publication Downloader, slightly modified from http://eqagunn.blogspot.com to zero-pad the file name.
 Instead of
 
@@ -16,4 +17,4 @@ You'll get
     ...
     file0010.jpg
     
-So that the file list correctly sorts itself making PDF creation easier.
+So that the file list sorts by page order, making PDF creation easier.
